@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi, I'm Siyun('See-One')! 👋🏼
 
+✨ Full Stack Developer ✨
+
+- 👩🏻‍💻 I’m currently working on a Twitter clone app that uses Pug and MongoDB
+- 🌱 I’m currently learning Socket IO and MongoDB
+- 📫 [Email me](mailto:siyunf21@gmail.com)
+- 🌻 [Siyun's Portfolio Website](https://siyunfeng.vercel.app/)
 <!--
-**siyunfeng/siyunfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
