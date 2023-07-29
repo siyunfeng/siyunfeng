@@ -1,10 +1,11 @@
-### Hi, I'm Siyun('See-One')! 👋🏼
+### <img width=138px src='https://images.squarespace-cdn.com/content/v1/6365ca34d9d2676907679da3/50c822ba-6dc5-4dc1-a3d4-bbca0a3a4c32/hello-world.gif' />, 
+### my name is Siyun('See-One')! 👋🏼
 
 ✨ Full Stack Engineer ✨
 
+- 🔗 [LinkedIn](https://linkedin.com/in/siyunfeng/) | 🌻 [Portfolio](https://siyunfeng.vercel.app/) | 📫 [Email me](mailto:siyunf21@gmail.com)
 - 👩🏻‍💻 I’m currently working on a Twitter clone app that uses Pug and MongoDB
 - 🌱 I’m currently learning Socket IO and MongoDB
-- 🔗 [LinkedIn](https://linkedin.com/in/siyunfeng/) | 🌻 [Portfolio](https://siyunfeng.vercel.app/) | 📫 [Email me](mailto:siyunf21@gmail.com)
 
 #
 
@@ -38,7 +39,29 @@
   </div>
 </html>
 
-          
+#
+
+<html>
+  <h4>📌 Projects: </h4>
+  <div display=inline-flex>
+      <a href='https://github.com/Team-Ada-Lovelace/Capstone-PartyPal'>  
+        <img width=138px title='Event planning app built by a team of three developers that allows users to search for caterers and venues.' src='https://siyunfeng.vercel.app/static/media/logo-PartyPal.b5f3dd65e05c2353d653.png' />
+      </a>
+      <a href='https://github.com/siyunfeng/The-Grace-British-Bake-Off'>  
+        <img width=138px title="E-commerce site built by a team of four developers selling baked goods based on the show 'The Great British Bake Off'." src='https://siyunfeng.vercel.app/static/media/logo-the-grace-british-bake-off.b522eb7a33e47c557520.png' />
+      </a>
+      <a href='https://github.com/siyunfeng/vintage_blog'>  
+        <img width=138px title='A blog about vintage fashion that I built as a solo project to learn Next.js and GraphQL.' src='https://siyunfeng.vercel.app/static/media/logo-Vintager.cb7ab86bcad70c4a5c96.png' />
+      </a>
+
+  </div>
+  
+</html>
+<!--
+      <span>Event planning app built by a team of three developers that allows users to search for caterers and venues.</span>
+      <span>E-commerce site built by a team of four developers selling baked goods based on the show 'The Great British Bake Off'.</span>
+      <span>A blog about vintage fashion that I built as a solo project to learn Next.js and GraphQL.</span>
+-->        
           
           
 <!--
