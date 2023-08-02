@@ -1,10 +1,10 @@
-### Hello, I am Siyun('See-One')! <img width=30px src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' />
+### [![Portfolio](https://cdn-icons-png.flaticon.com/64/1993/1993338.png)](https://siyunfeng.vercel.app/): Hello, I am Siyun('See-One')! <img width=30px src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' />
 
-✨ Full Stack Engineer ✨
+✨ Full Stack Engineer / Front-end Developer ✨
 
 - 👩🏻‍💻 I’m currently working on a Twitter clone app that uses Pug and MongoDB
 - 🌱 I’m currently learning Socket IO and MongoDB
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siyunfeng/)&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siyunf21@gmail.com)&nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://siyunfeng.vercel.app/)
+- [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/32px-LinkedIn_icon.svg.png)](https://linkedin.com/in/siyunfeng/)&nbsp; [![](https://cdn-icons-png.flaticon.com/32/5968/5968534.png)](mailto:siyunf21@gmail.com)&nbsp;
 
 #
 
@@ -65,6 +65,8 @@
 </div>
 
  <!--
+ - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siyunfeng/)&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siyunf21@gmail.com)&nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://siyunfeng.vercel.app/)
+ 
   <img width=38px alt='NodeJS' title='NodeJS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
   <img width=38px alt='JavaScript' title='JavaScript' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
   <img width=38px alt='TypeScript' title='TypeScript' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;
