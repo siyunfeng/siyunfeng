@@ -2,8 +2,8 @@
 
 ✨ Full Stack Engineer / Front-end Developer ✨
 
-- 👩🏻‍💻 I’m currently working on a Twitter clone app that uses Pug and MongoDB
-- 🌱 I’m currently learning Socket IO and MongoDB
+- 👩🏻‍💻 I’m currently working on a visual entertainment reviews app that uses Angular
+- 🌱 I’m currently learning Angular
 - [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/32px-LinkedIn_icon.svg.png)](https://linkedin.com/in/siyunfeng/)&nbsp; [![](https://cdn-icons-png.flaticon.com/32/5968/5968534.png)](mailto:siyunf21@gmail.com)&nbsp;
 
 #
@@ -17,6 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)&nbsp;
