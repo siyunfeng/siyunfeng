@@ -55,19 +55,19 @@
 
 <h4>📌 Projects: </h4>
 <div>
-  <a href='https://github.com/Team-Ada-Lovelace/Capstone-PartyPal'>  
+  <a href='https://github.com/Team-Ada-Lovelace/Capstone-PartyPal' target='_blank'>  
     <img width=138px title='An event planning app built with two other engineers that enables users to search for caterers and venues. ' src='https://siyunfeng.vercel.app/static/media/logo-PartyPal.b5f3dd65e05c2353d653.png' />
   </a>
-  <a href='https://github.com/siyunfeng/The-Grace-British-Bake-Off'>  
+  <a href='https://github.com/siyunfeng/The-Grace-British-Bake-Off' target='_blank'>  
     <img width=138px title="E-commerce site built by a team of four developers selling baked goods inspired by 'The Great British Bake Off'. " src='https://siyunfeng.vercel.app/static/media/logo-the-grace-british-bake-off.b522eb7a33e47c557520.png' />
   </a>
-  <a href='https://github.com/siyunfeng/vintage_blog'>  
+  <a href='https://github.com/siyunfeng/vintage_blog' target='_blank'>  
     <img width=138px title='A blog about vintage fashion that I built as a solo project to learn Next.js and GraphQL. ' src='https://siyunfeng.vercel.app/static/media/logo-Vintager.cb7ab86bcad70c4a5c96.png' />
   </a>
-   <a href='https://github.com/siyunfeng/Aviewcado'>  
+   <a href='https://github.com/siyunfeng/Aviewcado' target='_blank'>  
     <img width=138px title="A website that fetches and displays data on movies and TV shows from TMDB API. " src='https://siyunfeng.vercel.app/static/media/logo-Aviewcado.b83d7a13ec5812db285d.png' />
   </a>
-    <a href='https://github.com/siyunfeng/chatter'>  
+    <a href='https://github.com/siyunfeng/chatter' target='_blank'>  
     <img width=138px title="A social media app based on Twitter that I built as a solo project to learn MongoDB, Mongoose, SocketIO, jQuery, and Pug. " src='https://siyunfeng.vercel.app/static/media/logo-Chatter.b2a980e246b5ffc4ea0f.png' />
   </a>
 </div>
